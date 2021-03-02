@@ -18,7 +18,7 @@ namespace BlazorApp.Api
 
             if (temp >= 32)
             {
-                summary = "Hot";
+                summary = "Hot-mama";
             }
             else if (temp <= 16 && temp > 0)
             {
